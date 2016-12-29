@@ -31,4 +31,4 @@ Youtube video demo:
 [![Face replacement](video_screenshot.png)](https://www.youtube.com/watch?v=nZL8UIkghto&feature=youtu.be "Face replacement")
 
 More details about implementation:
-<project_description.pdf>
+<https://github.com/stormmax/seamless_face_replacement/blob/master/project_description.pdf>
