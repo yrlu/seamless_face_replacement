@@ -2,7 +2,7 @@
 -Yiren Lu (luyiren [at] seas [dot] upenn [dot] edu)
 -Dongni Wang (wdongni [at] seas [dot] upenn [dot] edu)
 
-## Project Report
+## Project Description
 <https://github.com/stormmax/seamless_face_replacement/blob/master/project_description.pdf>
 
 
