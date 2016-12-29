@@ -1,6 +1,11 @@
 # Automatic Seamless Face Replacement in Videos
 -Yiren Lu (luyiren [at] seas [dot] upenn [dot] edu)
+
 -Dongni Wang (wdongni [at] seas [dot] upenn [dot] edu)
+
+Project report:
+<https://github.com/stormmax/seamless_face_replacement/blob/master/project_description.pdf>
+
 
 Python third party libs used:
   - dlib
@@ -30,5 +35,3 @@ Example output videos in ./output_videos
 Youtube video demo:
 [![Face replacement](video_screenshot.png)](https://www.youtube.com/watch?v=nZL8UIkghto&feature=youtu.be "Face replacement")
 
-More details in project report:
-<https://github.com/stormmax/seamless_face_replacement/blob/master/project_description.pdf>
