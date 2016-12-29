@@ -21,3 +21,6 @@ See demo.m
   c) save video to .avi file
 
 Example output videos in ./output_videos
+
+Youtube video demo:
+[![Face replacement](video_screenshot.png)](https://www.youtube.com/watch?v=nZL8UIkghto&feature=youtu.be "Face replacement")
