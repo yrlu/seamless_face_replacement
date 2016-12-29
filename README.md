@@ -35,6 +35,6 @@ Example outputs in `Proj4_Test/` and `clips/`
 
 Example output videos in `output_videos/`
 
-Youtube video demo:
+## Video Demo
 [![Face replacement](video_screenshot.png)](https://www.youtube.com/watch?v=nZL8UIkghto&feature=youtu.be "Face replacement")
 
