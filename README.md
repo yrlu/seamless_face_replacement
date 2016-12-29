@@ -10,15 +10,19 @@
 
 ## Run Code
 
-Python third party libs used:
+Python third party libs required:
   - dlib
   - cv2
   - skimage
   - scipy.io
 
 To run face replacement:
-
-- Face detection (for both source video and destination video):
+- Download face landmark estimation model and uncompress
+```
+$ wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+$ tar xvfj shape_predictor_68_face_landmarks.dat.bz2
+```
+- Face detection (for both source video and destination video)
 ```
 $ Python face_detect_wrapper.py shape_predictor_68_face_landmarks.dat [video_name_no_suffix]
 ```
