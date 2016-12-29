@@ -1,3 +1,7 @@
+# Automatic Seamless Face Replacement in Videos
+-Yiren Lu (luyiren [at] seas [dot] upenn [dot] edu)
+-Dongni Wang (wdongni [at] seas [dot] upenn [dot] edu)
+
 Python third party libs used:
   - dlib
   - cv2
@@ -5,6 +9,7 @@ Python third party libs used:
   - scipy.io
 
 To run face replacement:
+
 1) Face detection (for both source video and destination video):
 Python face_detect_wrapper.py shape_predictor_68_face_landmarks.dat [video_name]
 
@@ -24,3 +29,6 @@ Example output videos in ./output_videos
 
 Youtube video demo:
 [![Face replacement](video_screenshot.png)](https://www.youtube.com/watch?v=nZL8UIkghto&feature=youtu.be "Face replacement")
+
+More details about implementation:
+<project_description.pdf>
