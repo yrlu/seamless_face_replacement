@@ -40,7 +40,7 @@ Example outputs in `Proj4_Test/` and `clips/`
 Example output videos in `output_videos/`
 
 ## Video Demo
-[![Face replacement](video_screenshot.png)](https://www.youtube.com/watch?v=nZL8UIkghto&feature=youtu.be "Face replacement")
+[![Face replacement](video_screenshot.jpg)](https://www.youtube.com/watch?v=nZL8UIkghto&feature=youtu.be "Face replacement")
 - Test videos could be downloaded here:  
 <https://upenn.box.com/s/avdqql28l3qfa80kie9ai7pdu2228uit>
 
