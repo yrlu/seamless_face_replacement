@@ -44,4 +44,6 @@ Example output videos in `output_videos/`
 - Test videos could be downloaded here:  
 <https://upenn.box.com/s/avdqql28l3qfa80kie9ai7pdu2228uit>
 
+## License
 
+The contents of this repository are licensed under the [MIT License.](https://en.wikipedia.org/wiki/MIT_License)
