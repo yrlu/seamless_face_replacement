@@ -42,7 +42,7 @@ Example output videos in `output_videos/`
 ## Video Demo
 [![Face replacement](video_screenshot.jpg)](https://www.youtube.com/watch?v=nZL8UIkghto&feature=youtu.be "Face replacement")
 - Test videos could be downloaded here:  
-<https://upenn.box.com/s/avdqql28l3qfa80kie9ai7pdu2228uit>
+<https://drive.google.com/drive/folders/0Bw-gLvstCiC-b1IxSE4xemo2eUk?usp=sharing>
 
 ## License
 
