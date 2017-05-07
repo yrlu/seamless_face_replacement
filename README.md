@@ -2,10 +2,10 @@
 -Yiren Lu (luyiren [at] seas [dot] upenn [dot] edu)
 -Dongni Wang (wdongni [at] seas [dot] upenn [dot] edu)
 
+Automatic Seamless Face Replacement (without deep learning).
+
 ## Project Description
-<https://github.com/stormmax/seamless_face_replacement/blob/master/project_description.pdf>
-
-
+[PDF](https://github.com/stormmax/seamless_face_replacement/blob/master/project_description.pdf)
 
 
 ## Run Code
